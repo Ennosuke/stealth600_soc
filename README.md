@@ -32,5 +32,7 @@ As of now it only works with the Stealth 600 other headsets may also just work b
 
 ## AI usage for this project
 I don't know much about USB HID devices and such. I just wanted to know the SoC of my headset in Linux and not rely on my phone, bluetooth or a Windows VM.
+
 I used Claude to help me decode what I found and to point me in the right direction. It also helped me clean up the code and trim it down.
+
 Without the usage of AI I would not have complete it and got this working.
